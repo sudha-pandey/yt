@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="169910" started-at="2019-01-20T12:52:54Z" finished-at="2019-01-20T12:55:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="169910" started-at="2019-01-20T12:52:54Z" finished-at="2019-01-20T12:55:44Z">
+      <class name="Org.testing.Org.testing.TestScripts.TC3">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Org.testing.Org.testing.TestScripts.TC3@28feb3fa]" name="beforeMethod" is-config="true" duration-ms="96097" started-at="2019-01-20T12:52:54Z" finished-at="2019-01-20T12:54:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Org.testing.Org.testing.TestScripts.TC3@28feb3fa]" name="f" duration-ms="73664" started-at="2019-01-20T12:54:30Z" finished-at="2019-01-20T12:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Org.testing.Org.testing.TestScripts.TC3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
